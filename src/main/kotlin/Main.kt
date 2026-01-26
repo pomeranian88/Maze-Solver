@@ -36,6 +36,6 @@ fun main(args: Array<String>) {
         myMaze.printMaze()
     }
     else{
-        println("You probably entered something wrong -- redo your entry")
+        println("You may have entered something wrong, or run the code in Maven, which will not work because there are no args!")
     }
 }
